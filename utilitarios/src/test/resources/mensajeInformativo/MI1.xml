@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MensajeInformativo>
+   <Codigo>1</Codigo>
+   <Descripcion>Demo1</Descripcion>
+   <Fecha>10/04/2019 01:05:23 p.m.</Fecha>
+   <IdentificadorSolicitud>ID-123</IdentificadorSolicitud>
+</MensajeInformativo>
